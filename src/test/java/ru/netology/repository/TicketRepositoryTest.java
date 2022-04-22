@@ -31,4 +31,10 @@ class TicketRepositoryTest {
         assertArrayEquals(expected, actual);
 
     }
+
+    @Test
+    void removeById() {
+
+
+    }
 }
